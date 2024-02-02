@@ -5,8 +5,8 @@ so if you never used any suckless software be4 i'll make a quick lil guide (it's
 3. cd into the directory of the software and run "sudo make clean install"
 
 Requirements:
-JetbrainsMono font
-an X composite manager
+JetbrainsMono font,
+an X composite manager,
 (for the pre-made shortcuts) steam and librewolf 
 
 it comes included with the used patches
