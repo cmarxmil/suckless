@@ -15,4 +15,4 @@ enjoy :3
 
 and if sometime is not to your liking go change it for yourself!!! so dont even bother to make pull requests xd
 
-this repo is originally only meant for me but i decided that id put this on public for other people to use :3
+this repo is originally only meant for me but i decided that id put this on public for other people to use
